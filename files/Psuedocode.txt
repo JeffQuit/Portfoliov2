@@ -25,9 +25,7 @@ CSS Template-
 
 Google Font-
 Muli
-Oswald
-Libre Franklin 
-Lato
+
 
 
 
@@ -54,6 +52,7 @@ Design:
 Logo in center of header like: 
 https://visme.co/blog/wp-content/uploads/2016/09/website50.jpg
 
+Animate.css
 
 
 Images to use as backgrounds
@@ -85,3 +84,13 @@ Color changing logo?
 Website Examples:
 https://codeburst.io/10-awesome-web-developer-portfolios-d266b32e6154
 
+
+
+
+<div class="container">
+					<div class="row">
+						<div class="col align-self-start">
+							<p class="bannerAreaText">One of three columns</p>
+						</div>
+					</div>
+				</div>
