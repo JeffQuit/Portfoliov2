@@ -1,0 +1,87 @@
+Examples of good website:
+
+
+
+Parts:
+Opening Page:
+About Me:
+Where I have worked/Work Experience
+Code Experience/Languages Known - use logos for languages
+Things I have build/Big Focus Projects
+Other Noteworthy Projects/Small other Projects
+Get in touch/contact - Opens Gmail or email 
+
+
+Links to social:
+Git
+LinkedIn
+IMDB?
+
+
+
+
+Build Specs:
+CSS Template-
+
+Google Font-
+Muli
+Oswald
+Libre Franklin 
+Lato
+
+
+
+
+
+
+
+Color Palet:
+https://visme.co/blog/wp-content/uploads/2016/09/website27.jpg - Gorgeous Contrast via https://visme.co/blog/website-color-schemes/
+Colors:
+#61892F - Flat Pea Soup Green
+#86C232 - Lime Green
+#222629 - Charcole 
+#474B4F - Darker mid Grey
+#6B6E70 - Light Grey
+
+Additional Colors:
+#EDEAE5 - Light Smokey Grey
+#FFFFFF - White
+#EEEBE6 - Linen
+
+
+Design:
+Logo in center of header like: 
+https://visme.co/blog/wp-content/uploads/2016/09/website50.jpg
+
+
+
+Images to use as backgrounds
+
+
+
+Design
+Header
+Navbar
+Content Area
+Footer - 
+
+
+Other Notes - 
+
+Hide HTML and put a Haiku in the INSPECT Area
+Put it in an ASCII Box
+Inspecting Page HTML
+
+user Pre tags for HTML Head info
+https://stackoverflow.com/questions/1702559/ascii-art-in-html
+
+Logo-
+Color changing logo?
+
+
+
+
+Website Examples:
+https://codeburst.io/10-awesome-web-developer-portfolios-d266b32e6154
+
